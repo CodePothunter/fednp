@@ -1,6 +1,6 @@
 
 
-# The Codes involved in the Experiment Section of "FedNP: Towards Non-IID Federated Learning via Federated Neural Propagation"
+# The Codes for "FedNP: Towards Non-IID Federated Learning via Federated Neural Propagation"
 
 > Tips:
 > The file `appendix.pdf` is appendix to the main paper. 
